@@ -1,0 +1,29 @@
+{
+  "name": "slambdack",
+  "version": "1.0.0",
+  "description": "Slack Helpers for AWS Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Social Tables",
+  "license": "Apache-2",
+  "devDependencies": {
+    "eslint": "^1.10.3"
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/socialtables/slambdack.git"
+  },
+  "keywords": [
+    "slack",
+    "aws",
+    "lambda"
+  ],
+  "bugs": {
+    "url": "https://github.com/socialtables/slambdack/issues"
+  },
+  "homepage": "https://github.com/socialtables/slambdack"
+}
